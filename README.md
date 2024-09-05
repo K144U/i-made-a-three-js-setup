@@ -15,31 +15,18 @@ Before you can run the project, ensure that you have the following installed on 
 
 Clone this repository to your local machine 
 
+open with vscode
 
-Navigate into the project directory:
+open terminal in vs code 
 
-cd your-repo-name
+do 
 
+npm nstall
 
 2. Install Dependencies
 This project uses npm to manage dependencies. To install the required npm packages, run:
 
 npm run dev
-
-
-
-Vite will start a local development server, and you can access your project in the browser at http://localhost:3000.
-
-This will install all necessary packages, including Vite for development and Three.js for 3D rendering.
-
-3. Run the Development Server
-Once the dependencies are installed, you can start the development server by running:
-
-npm run dev
-
-
-Vite will start a local development server, and you can access your project in the browser at http://localhost:3000.
-
 
 
 
